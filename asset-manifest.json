@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mern-google-login-react/static/css/main.7069cb8d.chunk.css",
+    "main.js": "/mern-google-login-react/static/js/main.a7911847.chunk.js",
+    "main.js.map": "/mern-google-login-react/static/js/main.a7911847.chunk.js.map",
+    "runtime-main.js": "/mern-google-login-react/static/js/runtime-main.bce09a0d.js",
+    "runtime-main.js.map": "/mern-google-login-react/static/js/runtime-main.bce09a0d.js.map",
+    "static/js/2.b3c928b7.chunk.js": "/mern-google-login-react/static/js/2.b3c928b7.chunk.js",
+    "static/js/2.b3c928b7.chunk.js.map": "/mern-google-login-react/static/js/2.b3c928b7.chunk.js.map",
+    "static/js/3.3316b18e.chunk.js": "/mern-google-login-react/static/js/3.3316b18e.chunk.js",
+    "static/js/3.3316b18e.chunk.js.map": "/mern-google-login-react/static/js/3.3316b18e.chunk.js.map",
+    "index.html": "/mern-google-login-react/index.html",
+    "static/css/main.7069cb8d.chunk.css.map": "/mern-google-login-react/static/css/main.7069cb8d.chunk.css.map",
+    "static/js/2.b3c928b7.chunk.js.LICENSE.txt": "/mern-google-login-react/static/js/2.b3c928b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bce09a0d.js",
+    "static/js/2.b3c928b7.chunk.js",
+    "static/css/main.7069cb8d.chunk.css",
+    "static/js/main.a7911847.chunk.js"
+  ]
+}
