@@ -8,7 +8,7 @@ const SocialLogin = () => {
   );
 
   const handleLogin = async (googleData) => {
-    const res = await axios.post("https://still-eyrie-92675.herokuapp.com/api/auth/google", {
+    const res = await axios.post("/api/auth/google", {
       token: googleData.tokenId,
     });
 
